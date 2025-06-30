@@ -26,7 +26,7 @@ I'm a 2nd year undergraduate student of Information Systems & Technology at Band
 
 ## 📞 Let's Connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in/dzakyyatha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/dzakyatha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:dzakyatha8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
