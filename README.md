@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Dzaky</h1>
 <p align="justify">
-I'm a 3rd year undergraduate student of Information System & Technology at Bandung Institute Technology with deep interest in Software Engineering, System Design and Artificial Intelligence. Committed for continuous learning, I’m looking forward to develop my knowledge and skills by actively seeking for internships or entry-level jobs. Feel free to reach me by email at dzakyatha@gmail.com if you'd like to learn more about me. I hope we can collaborate soon!
+I'm a 3rd year undergraduate student of Information System & Technology at Bandung Institute Technology with deep interest in Software Engineering, System Design, Data Science, and Artificial Intelligence. Committed for continuous learning, I’m looking forward to develop my knowledge and skills by actively seeking for internships or entry-level jobs. Feel free to reach me by email at dzakyatha@gmail.com if you'd like to learn more about me. I hope we can collaborate soon!
 </p>
 
 ---
