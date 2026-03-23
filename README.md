@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Dzaky</h1>
 <p align="justify">
-I'm a 3rd year undergraduate student of Information System & Technology at Bandung Institute Technology with deep interest in Artificial Intelligence, Data Science, Software Engineering, and System Design. I’m experienced with several programming languages and tools for developing problem-driven AI & software solutions. I have strong analytical thinking, communication, and teamwork enhanced through several organizational experiences. Committed for continuous learning, I’m looking forward to develop my knowledge and skills by actively seeking for project opportunities or internships. 
+Third-year Information Systems and Technology student at Bandung Institute of Technology with a strong focus on AI engineering, machine learning, and automation systems. Experienced in building LLM-powered applications and end-to-end ML pipelines. Currently building automation systems for clients, combining backend engineering and scalable system design. Passionate about developing production-ready AI products and contributing to impactful engineering teams.
   
 Feel free to reach me by email at dzakyatha@gmail.com if you'd like to learn more about me. I hope we can collaborate soon!
 </p>
@@ -11,7 +11,6 @@ Feel free to reach me by email at dzakyatha@gmail.com if you'd like to learn mor
 
 ### 🖥️ Programming Languages
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
